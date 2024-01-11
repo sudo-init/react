@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+.idea/
+venv/
+__pycache__/
 
 # dependencies
 /node_modules
@@ -153,4 +154,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
->>>>>>> 3dbc852303c4f9cb5493047b6a744ed1cf11eeb6
+
